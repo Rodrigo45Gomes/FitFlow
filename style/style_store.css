@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+header {
+    background-color: #1f1f1f;
+    text-align: center;
+    padding: 30px 20px;
+    border-bottom: 3px solid #f72585;
+}
+
+header h1 {
+    color: hsl(333, 93%, 56%);
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    color: #aaa;
+    margin-top: 10px;
+}
+
+nav {
+    background-color: #272727;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: #f1f1f1;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #f72585;
+}
+
+.banner {
+    background-image: url('../imagens/Logo_FitFlow.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slogan {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    font-size: 1.8em;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.conteudo {
+    padding: 40px 20px;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.conteudo h2 {
+    color: #f72585;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.produtos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+}
+
+.produto {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    transition: transform 0.3s ease;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.produto:hover {
+    transform: scale(1.05);
+}
+
+.produto img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.produto h3 {
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.produto p {
+    color: #f72585;
+    font-size: 1.2em;
+}
+
+footer {
+    text-align: center;
+    background-color: #1f1f1f;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #aaa;
+    margin-top: 40px;
+}
+
+.auth-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.login-btn,
+.logout-btn {
+    padding: 8px 16px;
+    background-color: #BE1931;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.login-btn:hover,
+.logout-btn:hover {
+    background-color: #941524;
+}
+
+.user-box {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            background-color: #f3f3f3;
+            padding: 8px 15px;
+            border-radius: 10px;
+            font-weight: bold;
+            color: #333;
+            z-index: 100;
+        }
+
+        .botao-email {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ecf8e;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.botao-email:hover {
+    background-color: #36b87c;
+}
