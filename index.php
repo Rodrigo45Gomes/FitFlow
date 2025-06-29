@@ -40,11 +40,13 @@
 
     </nav>
 
+    <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
 
-    <div class="banner">
-        <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
-    </div>
+    <div class="banner"></div>
 
+
+
+    
     <div class="produtos">
     <a href="fitflow_products.php" class="produto">
         <img src="imagens/proteina.png" alt="Proteína Whey">

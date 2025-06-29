@@ -39,10 +39,9 @@ session_start();
     <a href="carrinho.php">Carrinho (<?= isset($_SESSION['cart']) ? count($_SESSION['cart']) : 0 ?>)</a>
 
 </nav>
+    <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
 
-<div class="banner">
-        <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
-    </div>
+    <div class="banner"></div>
 
 <div class="conteudo">
     <h2>A nossa missão</h2>
