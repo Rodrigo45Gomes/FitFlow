@@ -20,6 +20,7 @@ session_start();
     </div>
 <?php endif; ?>
 
+
 <header>
     <h1>Contacta o FitFlow</h1>
     <p>Estamos aqui para te ajudar</p>
@@ -38,6 +39,9 @@ session_start();
     <?php endif; ?>
     <a href="carrinho.php">Carrinho (<?= isset($_SESSION['cart']) ? count($_SESSION['cart']) : 0 ?>)</a>
 </nav>
+<div class="banner">
+        <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
+    </div>
 
 <div class="conteudo">
     <h2>Envia-nos uma mensagem</h2>

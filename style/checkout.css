@@ -1,5 +1,10 @@
-body {
+* {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
     font-family: 'Segoe UI', sans-serif;
     background-color: #121212;
     color: #f1f1f1;
@@ -13,8 +18,7 @@ header {
 }
 
 header h1 {
-    color: hsl(333, 93%, 56%);
-    margin: 0;
+    color: #f72585;
     font-size: 2.5em;
 }
 
@@ -40,6 +44,7 @@ nav a:hover {
     color: #f72585;
 }
 
+/* BANNER COM SLOGAN */
 .banner {
     background-image: url('../imagens/Logo_FitFlow.png');
     background-repeat: no-repeat;
@@ -59,22 +64,12 @@ nav a:hover {
     border-radius: 10px;
 }
 
-.conteudo {
-    padding: 40px 20px;
-    max-width: 1100px;
-    margin: auto;
-}
-
-.conteudo h2 {
-    color: #f72585;
-    text-align: center;
-    margin-bottom: 40px;
-}
-
+/* PRODUTOS */
 .produtos {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 30px;
+    padding: 40px 20px;
 }
 
 .produto {
@@ -106,6 +101,7 @@ nav a:hover {
     font-size: 1.2em;
 }
 
+/* FOOTER */
 footer {
     text-align: center;
     background-color: #1f1f1f;
@@ -115,14 +111,14 @@ footer {
     margin-top: 40px;
 }
 
+/* BOTÕES E USER */
 .auth-btn {
     position: absolute;
     top: 20px;
     right: 20px;
 }
 
-.login-btn,
-.logout-btn {
+.login-btn, .logout-btn {
     padding: 8px 16px;
     background-color: #BE1931;
     color: white;
@@ -132,24 +128,23 @@ footer {
     transition: background-color 0.3s;
 }
 
-.login-btn:hover,
-.logout-btn:hover {
+.login-btn:hover, .logout-btn:hover {
     background-color: #941524;
 }
 
 .user-box {
-            position: absolute;
-            top: 10px;
-            right: 20px;
-            background-color: #f3f3f3;
-            padding: 8px 15px;
-            border-radius: 10px;
-            font-weight: bold;
-            color: #333;
-            z-index: 100;
-        }
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background-color: #f3f3f3;
+    padding: 8px 15px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: #333;
+    z-index: 100;
+}
 
-        .botao-email {
+.botao-email {
     display: inline-block;
     padding: 10px 20px;
     background-color: #3ecf8e;
@@ -158,12 +153,102 @@ footer {
     text-decoration: none;
     font-weight: bold;
 }
+
 .botao-email:hover {
     background-color: #36b87c;
 }
 
-.produto {
-    text-decoration: none;
-    color: inherit;
+/* CHECKOUT */
+.checkout-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+}
+
+.checkout-container h2 {
+    color: #f72585;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.checkout-container form label {
     display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.checkout-container form input,
+.checkout-container form select,
+.checkout-container form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 6px;
+    border: none;
+    background-color: #333;
+    color: white;
+}
+
+.checkout-btn {
+    margin-top: 30px;
+    background-color: #3ecf8e;
+    color: white;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.checkout-btn:hover {
+    background-color: #36b87c;
+}
+
+/* TABELA ADMIN */
+.admin-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+}
+
+.admin-container table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+}
+
+.admin-container th,
+.admin-container td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #333;
+}
+
+.admin-container th {
+    background-color: #272727;
+    color: #f72585;
+}
+
+.admin-container img {
+    max-height: 60px;
+    border-radius: 6px;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #3ecf8e;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.botao:hover {
+    background-color: #36b87c;
 }

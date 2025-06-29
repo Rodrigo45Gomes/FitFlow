@@ -38,6 +38,10 @@
 
 </nav>
 
+<div class="banner">
+        <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
+    </div>
+
 <div class="conteudo">
     <div class="produto">
       <img src="imagens/proteina.png" alt="Proteína Whey" style="width: 150px; height: auto;">

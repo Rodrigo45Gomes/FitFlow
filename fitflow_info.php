@@ -40,6 +40,10 @@ session_start();
 
 </nav>
 
+<div class="banner">
+        <div class="slogan">Transforma o teu corpo com os melhores produtos!</div>
+    </div>
+
 <div class="conteudo">
     <h2>A nossa missão</h2>
     <p>O FitFlow nasceu com o objetivo de fornecer produtos de qualidade para todos os entusiastas de fitness, desde iniciantes até atletas experientes...</p>

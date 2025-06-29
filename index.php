@@ -46,58 +46,57 @@
     </div>
 
     <div class="produtos">
-        <div class="produto">
-            <img src="imagens/proteina.png" alt="Proteína Whey">
-            <h3>Proteína Whey</h3>
-            <p>€29,99</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/creatina.png" alt="Creatina">
-            <h3>Creatina Monohidratada</h3>
-            <p>€19,99</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/luvas.png" alt="Luvas de Treino">
-            <h3>Luvas de Treino</h3>
-            <p>€12,90</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/shaker.png" alt="Shaker">
-            <h3>Shaker 600ml</h3>
-            <p>€6,50</p>
-        </div>
-
-        <div class="produto">
-            <img src="imagens/pre_treino.png" alt="Pré-Treino Xtreme">
-            <h3>Pré-Treino Xtreme</h3>
-            <p>€24,99</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/barra_proteica.png" alt="Barra Proteica">
-            <h3>Barra Proteica (cx. 12un)</h3>
-            <p>€15,00</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/cinto.png" alt="Cinto de Musculação">
-            <h3>Cinto de Musculação</h3>
-            <p>€22,50</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/t-shirt.png" alt="T-shirt Dry-Fit">
-            <h3>T-shirt Dry-Fit Masculina</h3>
-            <p>€14,90</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/leggins.png" alt="Leggings Fitness">
-            <h3>Leggings Fitness Femininas</h3>
-            <p>€18,90</p>
-        </div>
-        <div class="produto">
-            <img src="imagens/bandas.png" alt="Bandas elásticas de resistência">
-            <h3>Bandas elásticas de resistência</h3>
-            <p>€18,90</p>
-        </div>
-    </div>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/proteina.png" alt="Proteína Whey">
+        <h3>Proteína Whey</h3>
+        <p>€29,99</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/creatina.png" alt="Creatina">
+        <h3>Creatina Monohidratada</h3>
+        <p>€19,99</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/luvas.png" alt="Luvas de Treino">
+        <h3>Luvas de Treino</h3>
+        <p>€12,90</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/shaker.png" alt="Shaker">
+        <h3>Shaker 600ml</h3>
+        <p>€6,50</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/pre_treino.png" alt="Pré-Treino Xtreme">
+        <h3>Pré-Treino Xtreme</h3>
+        <p>€24,99</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/barra_proteica.png" alt="Barra Proteica">
+        <h3>Barra Proteica (cx. 12un)</h3>
+        <p>€15,00</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/cinto.png" alt="Cinto de Musculação">
+        <h3>Cinto de Musculação</h3>
+        <p>€22,50</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/t-shirt.png" alt="T-shirt Dry-Fit">
+        <h3>T-shirt Dry-Fit Masculina</h3>
+        <p>€14,90</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/leggins.png" alt="Leggings Fitness">
+        <h3>Leggings Fitness Femininas</h3>
+        <p>€18,90</p>
+    </a>
+    <a href="fitflow_products.php" class="produto">
+        <img src="imagens/bandas.png" alt="Bandas elásticas de resistência">
+        <h3>Bandas elásticas de resistência</h3>
+        <p>€18,90</p>
+    </a>
+</div>
 
     <footer>
         <p>FitFlow</p>
