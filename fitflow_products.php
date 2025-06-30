@@ -53,7 +53,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -68,7 +68,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -83,7 +83,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -98,7 +98,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -113,7 +113,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -128,7 +128,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -143,7 +143,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -158,7 +158,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -173,7 +173,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -188,7 +188,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -203,7 +203,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -218,7 +218,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 <div class="produto">
@@ -232,7 +232,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -247,7 +247,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -262,7 +262,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -277,7 +277,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -292,7 +292,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -307,7 +307,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -322,7 +322,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -337,7 +337,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -352,7 +352,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 
@@ -367,7 +367,7 @@
             <button type="submit">Adicionar ao Carrinho </button>
         </form>
     <?php else: ?>
-        <p><a href="form_login.php">Adicionar ao Carrinho </a></p>
+        <p><a href="login_choice.php">Adicionar ao Carrinho </a></p>
     <?php endif; ?>
 </div>
 </div>
