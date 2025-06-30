@@ -77,3 +77,39 @@ input:focus, select:focus {
 .botoes-container button:hover {
     background-color: #e01e78;
 }
+
+
+button[type="submit"] {
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background-color: #f72585;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color:#f72585;
+}
+
+
+button{
+    margin-top: 20px;
+    width: 100%;
+    padding: 12px;
+    background-color: #f72585;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button{
+    background-color:#f72585;
+}

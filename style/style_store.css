@@ -102,7 +102,7 @@ nav a:hover {
 }
 
 .produto p {
-    color: #f72585;
+    color: hsl(333, 93%, 56%);
     font-size: 1.2em;
 }
 
@@ -152,14 +152,14 @@ footer {
         .botao-email {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #3ecf8e;
+    background-color:lab(54.89% 78.9 1.49);
     color: white;
     border-radius: 8px;
     text-decoration: none;
     font-weight: bold;
 }
 .botao-email:hover {
-    background-color: #36b87c;
+    color: lab(54.89% 78.9 1.49);
 }
 
 .produto {

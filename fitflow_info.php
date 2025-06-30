@@ -56,7 +56,7 @@ session_start();
     </ul>
 
     <h2>Porquê escolher o FitFlow?</h2>
-    <p>Trabalhamos com marcas de renome, garantimos entregas rápidas e oferecemos suporte ao cliente com atenção e responsabilidade...</p>
+    <p>Garantimos entregas rápidas e oferecemos suporte ao cliente com atenção e responsabilidade.</p>
 </div>
 
 <footer>

@@ -13,9 +13,9 @@
     <h1>Bem-vindo à FitFlow</h1>
     <p>Descobre os melhores suplementos, roupas e acessórios para o teu treino.<br> Energia, força e estilo num só lugar.</p>
     <div class="botoes">
-        <a href="http://localhost/PAP/index.php" class="botao">Ver a loja</a>
-        <a href="http://localhost/PAP/form_login.php" class="botao">Entrar</a>
-        <a href="http://localhost/PAP/form_user.php" class="botao">Criar conta</a>
+        <a href="index.php" class="botao">Ver a loja</a>
+        <a href="form_login.php" class="botao">Entrar</a>
+        <a href="form_user.php" class="botao">Criar conta</a>
     </div>
 </div>
 
